@@ -24,7 +24,7 @@ Node JS:
 ### How to run this project:
 
 - clone the git repo
-- cd into the project's root then run `npm init` to install the necessary node packages
+- cd into the project's root then run `npm install` to install the necessary node packages
 - cd into the project's root then run:
   - `npm run chrome` to run the scenario in chrome browser
   - `npm run firefox` to run the scenario in firefox browser
